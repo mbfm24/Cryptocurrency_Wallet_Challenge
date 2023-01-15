@@ -16,3 +16,7 @@ For this Challenge, you will assume the perspective of a Fintech Finder customer
 
 # Below are the screenshots of the working code and the transaction details from Ganache
 
+![](https://github.com/mbfm24/Cryptocurrency_Wallet_Challenge/blob/fc4224dd97935ec0a7a3cb26113b1ebfd3de76bb/Resources/Screenshot%201.png)
+![](https://github.com/mbfm24/Cryptocurrency_Wallet_Challenge/blob/fc4224dd97935ec0a7a3cb26113b1ebfd3de76bb/Resources/Screenshot%202.png)
+![](https://github.com/mbfm24/Cryptocurrency_Wallet_Challenge/blob/fc4224dd97935ec0a7a3cb26113b1ebfd3de76bb/Resources/Screenshot%203.png)
+![](https://github.com/mbfm24/Cryptocurrency_Wallet_Challenge/blob/fc4224dd97935ec0a7a3cb26113b1ebfd3de76bb/Resources/Screenshot%204.png)
