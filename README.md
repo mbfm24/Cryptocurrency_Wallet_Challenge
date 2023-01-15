@@ -14,3 +14,5 @@ For this Challenge, you will assume the perspective of a Fintech Finder customer
 
 - Once you receive the transaction’s hash code, you will navigate to the Transactions section of Ganache to review the blockchain transaction details.
 
+# Below are the screenshots of the working code and the transaction details from Ganache
+
